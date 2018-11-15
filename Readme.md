@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomChooseConnectionPageView.cs](./CS/WizardCustomizationExample1/CustomChooseConnectionPageView.cs) (VB: [CustomChooseConnectionPageView.vb](./VB/WizardCustomizationExample1/CustomChooseConnectionPageView.vb))
+* [DataSourceWizardCustomization1.cs](./CS/WizardCustomizationExample1/DataSourceWizardCustomization1.cs) (VB: [DataSourceWizardCustomization1.vb](./VB/WizardCustomizationExample1/DataSourceWizardCustomization1.vb))
+* [Form1.cs](./CS/WizardCustomizationExample1/Form1.cs) (VB: [Form1.vb](./VB/WizardCustomizationExample1/Form1.vb))
+* [Program.cs](./CS/WizardCustomizationExample1/Program.cs) (VB: [Program.vb](./VB/WizardCustomizationExample1/Program.vb))
+<!-- default file list end -->
 #  OBSOLETE: DashboardDesigner - How to customize data source wizard to display only predefined data connections
 
 
