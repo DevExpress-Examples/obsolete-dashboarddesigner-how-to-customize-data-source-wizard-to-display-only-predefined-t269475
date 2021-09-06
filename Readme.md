@@ -11,7 +11,7 @@
 * [Form1.cs](./CS/WizardCustomizationExample1/Form1.cs) (VB: [Form1.vb](./VB/WizardCustomizationExample1/Form1.vb))
 * [Program.cs](./CS/WizardCustomizationExample1/Program.cs) (VB: [Program.vb](./VB/WizardCustomizationExample1/Program.vb))
 <!-- default file list end -->
-#  OBSOLETE: DashboardDesigner - How to customize data source wizard to display only predefined data connections
+#  OBSOLETE: Dashboard for WinForms - How to customize data source wizard to display only predefined data connections
 
 <p><strong>UPDATED:</strong> starting with version 15.2, it is possible to disable creating new connections by setting the <a href="https://documentation.devexpress.com/#Dashboard/DevExpressDashboardWinDashboardDataSourceWizardSettingsMembersTopicAll">DashboardDesigner.DataSourceWizardSettings.DisableNewConnections</a> property to <strong>True</strong>.  </p>
 <p><br>This example demonstrates how to use the <a href="https://documentation.devexpress.com/#Dashboard/DevExpressDashboardWinDashboardDesigner_DataSourceWizardCustomizationtopic">DashboardDesigner.DataSourceWizardCustomization</a> to replace the default pages of the data source wizard with custom ones:</p>
